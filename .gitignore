@@ -40,3 +40,4 @@
 # debug information files
 *.dwo
 /.vs/ProgramProject2
+/ProgramProject2/x64/Debug
